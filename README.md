@@ -6,6 +6,7 @@ Este projeto é uma aplicação web que consome uma API RESTful construída com 
 
 - Java: version 20
 - Banco de Dados: Postgresql
+- Baixe o repositório do Front-end Angular: https://github.com/OJeanMaciel/AutoCarsAngular
 
 # 🚦 API Docs
 
